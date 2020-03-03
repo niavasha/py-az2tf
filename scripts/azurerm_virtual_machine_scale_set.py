@@ -143,6 +143,8 @@ def azurerm_virtual_machine_scale_set(crf,cde,crg,headers,requests,sub,json,az2t
                         fr.write('\t}\n')
                     except KeyError:
                         pass
+                    except IndexError:
+                        pass
 
                 fr.write('}\n')
             except KeyError:

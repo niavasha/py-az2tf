@@ -16,3 +16,4 @@ az2tfpy.sh
 validate.sh
 testcases
 *.bck
+.DS_Store

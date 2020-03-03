@@ -83,7 +83,7 @@ echo "Get Subscription Policies & RBAC = ${p}"
 echo "Extract Key Vault Secrets to .tf files (insecure) = ${x}"
 echo "Fast Forward = ${f}"
 echo "Validate Only = ${v}"
-echo "Debug = ${f}"
+echo "Debug = ${d}"
 echo " "
 
 
