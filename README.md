@@ -1,6 +1,6 @@
 # az2tf 
 
-## This original project has been archived in favour of the author's new project for AWS however I am intending on continuing to use this extremely useful tool, although I am not promising updates extremely fast! 
+## This original project has been archived in favour of the original author's (andyt530) new project for AWS however I am intending on continuing to use this extremely useful tool, although I am not promising updates extremely fast! 
 
 ### The Feb. 2020 release of the 2.0 azurerm provider would require some effort to support - this has not happened yet
 
